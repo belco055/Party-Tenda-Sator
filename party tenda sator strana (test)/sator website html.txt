@@ -1,0 +1,37 @@
+<html>
+<body>
+<title>domasna za web strana</title>
+<Body>
+<center><img src="konjopoj (crn).png" width="25%" height="25%" /> </center>
+<img src="konjopoj (crn).png" width="25%" height="25%" />
+<p>
+<font size="10" face="arial" color="blue"
+<center> Upatstvo za racionalno koristenje na voda
+</font> </p>
+<p style=:text-align:left;">
+<font size="4" face="arial" color="red"
+<left><ul type="square"> <left>
+<li> ne pustaj ja vodata posilno otkolku sto ti treba </li>
+<li> sekogas posle misenje na racete zatvorete ja cesmata </li>
+<li> da ne gi ostavame cesmite da tecat bez potreba </li>
+</ul> 
+ <ol type="1"> <left>
+<li> ako nekoja slavina e neispravna izvesti go hausmajstorot ili dezurniot nastavnkik da se popravi ili smeni </li>
+<li> Prilagodite gi prskalkite vo ucilisniot dvor samo za trevnata povrsina, a ne za pateka,ucilisnata ili trotoarot </li>
+<li> vo leto ne ja ostavaj vodata da tece za da dojde poladna </li>
+</ol>
+<p style=:text-align:left;">
+<font size="4" face="arial" color="red"
+<left> Vodata e zivot! zatoa stedi ja! vodata ja ima nasekada okolu nas no 
+</p>
+<p style=:text-align:left;">
+<font size="4" face="arial" color="red"
+<left>prodolzime da ne ja stedime_ke se sluci ona najlosoto ke nema H2O	
+</p>
+<a href="http://nacebugjoni.mk/">]
+Nace Bugjoni
+</>
+
+</font>
+</body>
+</html>
